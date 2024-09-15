@@ -7,11 +7,12 @@
         #skull-outline { fill: white }
         #eyes-and-nose, #hat-outline { fill: #8929ff }
         #hat-fill, #hat-bill { fill: #e662e6 }
-    </style>
-    <style>
-        …
+
         @media (prefers-color-scheme: dark) {
-        /* dark theme styles */
+        .favicon-stroke { stroke: #343a40 }
+        #skull-outline { fill: #adb5bd }
+        #hat-outline { fill: #343a40 }
+        #eyes-and-nose { fill: #343a40 }
         }
     </style>
     <g id="skull">
